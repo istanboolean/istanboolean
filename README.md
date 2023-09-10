@@ -1,15 +1,14 @@
-### 🇹🇷🇹🇷🇹🇷
+### ![127](https://github.com/istanboolean/istanboolean/assets/98133561/81943943-d350-4736-9027-eb9ca3766286)
+
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Cyber+Security;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Cyber+Security%7C;)
 
 
 ### Hi there 👋, Mücahit
 #### Cyber Security | Software
 Selam! Ben Mücahit, Siber Güvenlik'in Red Team tarafındayım ve kendimi bu alanda geliştirmek için çabalıyorum. Gelecekte birçok projeyi hayata geçirmeyi planlıyorum ve bu projeleri burada herkese açık olarak paylaşmayı hedefliyorum.
 
-<!--   
-<h3 align="left">Skills: Python| Java | Html | JS | CSS  | </h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+
 
 
 
@@ -20,3 +19,4 @@ Selam! Ben Mücahit, Siber Güvenlik'in Red Team tarafındayım ve kendimi bu al
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=istanboolean)  
 
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/istanboolean)
