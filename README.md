@@ -1,7 +1,38 @@
 ### Hi there 👋, Ben Mücahit
 
 #### Siber Güvenlik | Yazılım
-Selam! Ben Mücahit, Siber Güvenlik'in Red Team tarafındayım ve kendimi bu alanda geliştirmek için çabalıyorum. Gelecekte birçok projeyi hayata geçirmeyi planlıyorum ve bu projeleri burada herkese açık olarak paylaşmayı hedefliyorum.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .scrolling-text {
+    overflow: hidden;
+    white-space: nowrap;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    animation: scroll 10s linear infinite;
+  }
+
+  @keyframes scroll {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>
+</head>
+<body>
+<div class="scrolling-text">
+  Ben Mücahit, Siber Güvenlik'in Red Team tarafındayım ve kendimi bu alanda geliştirmek için çabalıyorum.
+</div>
+</body>
+</html>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/istanboolean)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mchtzel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@mchtzel)  
 
