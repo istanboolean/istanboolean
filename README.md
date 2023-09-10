@@ -18,5 +18,8 @@ Selam! Ben Mücahit, Siber Güvenlik'in Red Team tarafındayım ve kendimi bu al
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=istanboolean)  
 
+![python](https://github.com/istanboolean/istanboolean/assets/98133561/894b48a0-a62a-4d24-a429-0407623af248)
+![kal](https://github.com/istanboolean/istanboolean/assets/98133561/0da1c6d8-044e-4c62-8b17-9e9c789d3a0b)
+![d1121f683ab1649d896d48e62770789a](https://github.com/istanboolean/istanboolean/assets/98133561/9ea72b8f-1721-4a17-8470-854717954ab7)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/istanboolean)
